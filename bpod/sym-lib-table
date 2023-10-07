@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "bpod")(type "KiCad")(uri "${KIPRJMOD}/bpod.kicad_sym")(options "")(descr ""))
+  (lib (name "st7735")(type "KiCad")(uri "${KIPRJMOD}/../st7735/st7735.kicad_sym")(options "")(descr ""))
+  (lib (name "usb")(type "KiCad")(uri "${KIPRJMOD}/../usb/usb.kicad_sym")(options "")(descr ""))
+  (lib (name "regulator")(type "KiCad")(uri "${KIPRJMOD}/../regulator/regulator.kicad_sym")(options "")(descr ""))
+  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/../espressif/espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "flash")(type "KiCad")(uri "${KIPRJMOD}/../flash/flash.kicad_sym")(options "")(descr ""))
+  (lib (name "ram")(type "KiCad")(uri "${KIPRJMOD}/../ram/ram.kicad_sym")(options "")(descr ""))
+  (lib (name "common")(type "KiCad")(uri "${KIPRJMOD}/../common/common.kicad_sym")(options "")(descr ""))
+)

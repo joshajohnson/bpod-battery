@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "bpod")(type "KiCad")(uri "${KIPRJMOD}/bpod.pretty")(options "")(descr ""))
+  (lib (name "st7735")(type "KiCad")(uri "${KIPRJMOD}/../st7735/st7735.pretty")(options "")(descr ""))
+  (lib (name "usb")(type "KiCad")(uri "${KIPRJMOD}/../usb/usb.pretty")(options "")(descr ""))
+  (lib (name "common")(type "KiCad")(uri "${KIPRJMOD}/../common/common.pretty")(options "")(descr ""))
+  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/../espressif/espressif.pretty")(options "")(descr ""))
+  (lib (name "gt-tc029x-hxxx-lxn")(type "KiCad")(uri "${KIPRJMOD}/../gt-tc029x-hxxx-lxn/gt-tc029x-hxxx-lxn.pretty")(options "")(descr ""))
+  (lib (name "Simple_Addon_v2")(type "KiCad")(uri "${KIPRJMOD}/../SAOv2/Simple_Addon_v2.pretty")(options "")(descr ""))
+)
